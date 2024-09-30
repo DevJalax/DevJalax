@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Jalakandeshwaran R (Jalax)
 
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner]([https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm13bzlpMWQxYmxiczV1dXZycmR2Y25vaWFuZGU4dngxNzBtZnM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif))
 
 I'm a passionate back-end developer from India, dedicated to crafting efficient and scalable solutions. Let's embark on a journey through my skills and interests!
 
