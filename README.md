@@ -16,30 +16,34 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
 ## 🛠️ Skills
 
 <p align="center">
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/spring.png" /> <!-- Updated URL for Spring -->
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/golang.png" /> <!-- Updated URL for Golang -->
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/oracle.png"/> <!-- Updated URL for Oracle DB -->
+    />
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/spring.png" />
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/golang.png" /> 
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/oracle.png"/> <!-
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> 
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/>
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-    <img height="60" width = "70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png "  />
-    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg "  /> 
-    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png "  /> 
-    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png " /> 
-    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png "/> 
-    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png "/> 
+    <img height="60" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
+    <img height="70" width="70" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"/> 
+    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png"/> 
+    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"/> 
+    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png"/> 
+    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png "/> 
+</p>
+---
+
+## Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevJalax&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
