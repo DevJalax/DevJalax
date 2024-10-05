@@ -67,4 +67,11 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
 
 ---
 
+## TRIVIA
+
+The projects that i have pinned as repositories are yet to start and it's a very ambitious one , inspired by the idea of super-apps.
+Ex : Wechat , Grab , Tata Neu
+
+---
+
 Thank you for visiting my profile! 🚀✨
