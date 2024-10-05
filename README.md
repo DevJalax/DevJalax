@@ -16,9 +16,13 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
 ## 🛠️ Skills
 
 <p align="center">
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/spring.png"/>
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/golang.png"/> 
-    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/oracle.png"/> 
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
+    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -32,10 +36,7 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
     <img height="60" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
     <img height="70" width="70" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"/> 
-    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png"/> 
-    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png"/> 
-    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png"/> 
-    <img height="70" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png "/> 
+   
 </p>
 ---
 
