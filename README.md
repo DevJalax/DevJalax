@@ -20,15 +20,15 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" /> <!-- Corrected URL for Spring -->
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" /> <!-- Corrected URL for Golang -->
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/spring.png" /> <!-- Updated URL for Spring -->
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/golang.png" /> <!-- Updated URL for Golang -->
+    <img height="60" width="60" src="https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13447499/36ef8080-a14f-45ce-8bd9-89d71ac74d96/oracle.png"/> <!-- Updated URL for Oracle DB -->
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-    <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/en/d/d5/Oracle_logo.svg"/> <!-- Corrected URL for Oracle DB -->
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
     <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
