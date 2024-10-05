@@ -15,30 +15,32 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
 
 ## 🛠️ Skills
 
-### Web Development
-- **Languages:** HTML5, CSS3 (Bootstrap + Material UI), JavaScript
-- **Frameworks:** React, Spring, Kratos
-
-### Back-End Technologies
-- **Languages:** C, C++, Java, Python, Golang
-- **Request Formats:** JSON, XML, Protocol Buffers
-
-### DevOps & Cloud
-- **Version Control:** Git, SVN
-- **Containerization:** Docker, Kubernetes
-- **CI/CD Tools:** Jenkins, Ansible, Terraform
-- **Cloud Platforms:** AWS, Azure
-
-### Databases & Caching
-- **Databases:** MySQL, PostgreSQL, Oracle
-- **Cache Systems:** Redis
-
-### Messaging & Monitoring
-- **Messaging Queues:** RabbitMQ, Kafka
-- **Monitoring Tools:** Prometheus, Jaeger, Grafana
-
-### Operating Systems
-- **Platforms:** Android, Linux
+<p align="center">
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/>
+    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+    <img height="60" width ="70 " src = " https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png "/>
+    <img height="60" width = " 70 "  src = " https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg "  /> 
+    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png "  /> 
+    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/kafka/kafka.png " /> 
+    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png "/> 
+    <img height = " 70 "  width = " 70 "  src = " https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png "/> 
+</p>
 
 ---
 
