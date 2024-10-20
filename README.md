@@ -74,4 +74,8 @@ Ex : Wechat , Grab , Tata Neu
 
 ---
 
+### My Spotify Playlist (click the gif)
+
+[![My Spotify Playlist](https://www.behance.net/gallery/121785013/Spotify-Premium/modules/692766079)](https://open.spotify.com/playlist/3FbHDwzteE2wLJI1yB7vkm)  
+
 Thank you for visiting my profile! 🚀✨
