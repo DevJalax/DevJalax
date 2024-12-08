@@ -2,13 +2,13 @@
 
 ![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm13bzlpMWQxYmxiczV1dXZycmR2Y25vaWFuZGU4dngxNzBtZnM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-I'm a passionate back-end developer from India, dedicated to crafting efficient and scalable solutions. Let's embark on a journey through my skills and interests!
+I'm a passionate software engineer from India, dedicated to crafting efficient and scalable solutions. Let's embark on a journey through my skills and interests!
+
+Tech Stack : Java(Backend api's) + Flutter(Front-end)
 
 ---
 
 ## 🚀 Areas of Interest
-- **Artificial Intelligence** 🤖
-- **Internet of Things** 🌐
 - **Android Application Development** 📱
 
 ---
@@ -72,10 +72,5 @@ I'm a passionate back-end developer from India, dedicated to crafting efficient 
 The projects that i have pinned as repositories are yet to start and it's a very ambitious one , inspired by the idea of super-apps.
 Ex : Wechat , Grab , Tata Neu
 
----
-
-### My Spotify Playlist (click the gif)
-
-[![My Spotify Playlist](https://cdn.dribbble.com/users/1343041/screenshots/5616971/spotify_dribble_1.gif)](https://open.spotify.com/playlist/3FbHDwzteE2wLJI1yB7vkm) 
 
 Thank you for visiting my profile! 🚀✨
