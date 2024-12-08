@@ -9,7 +9,7 @@ Tech Stack : Java(Backend api's) + Flutter(Front-end)
 ---
 
 ## 🚀 Areas of Interest
-- **Android Application Development** 📱
+- **Cross Platform Application Development** 📱
 
 ---
 
@@ -66,11 +66,4 @@ Tech Stack : Java(Backend api's) + Flutter(Front-end)
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## TRIVIA
-
-The projects that i have pinned as repositories are yet to start and it's a very ambitious one , inspired by the idea of super-apps.
-Ex : Wechat , Grab , Tata Neu
-
-
 Thank you for visiting my profile! 🚀✨
