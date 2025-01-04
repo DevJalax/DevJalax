@@ -66,4 +66,45 @@ Tech Stack : Java(Backend api's) + Flutter(Front-end)
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-Thank you for visiting my profile! 🚀✨
+
+## 🧪 POCs / Proof of Concepts
+Experimental and conceptual work to explore new ideas:
+
+- **[Spring Kafka](https://github.com/DevJalax/Apache-Kafka)**    
+  
+- **[Spring cloud api gateway](https://github.com/DevJalax/spring-cloud-api-gateway)**  
+  
+- **[Spring Redis](https://github.com/DevJalax/Spring-redis)**  
+  (Optional: Add a note on tools or frameworks used.)
+  
+- **[Spring cassandra + Redshift + Spark](https://github.com/DevJalax/spring-boot-cassandra-redshift-spark)**  
+  
+- **[MySQL -> Influxdb migration](https://github.com/DevJalax/mysql-to-influxDB-migration)**  
+  
+- **[Spring Circuit breaker](https://github.com/DevJalax/Circuit-breaker-SB)**  
+  
+- **[Periodical update of master DB data to slave db](https://github.com/DevJalax/MasterSlaveSync)**  
+  
+- **[Spring Batch](https://github.com/DevJalax/Batch-Processor)**  
+  
+- **[Spring webflux](https://github.com/DevJalax/Spring-webflux)**  
+  
+---
+
+## 📘 Learning Repository
+Repositories for my learning and personal skill development:
+
+- **[Devops](https://github.com/DevJalax/Devops)**  
+  Situations that can arise real-time when deploying application on cloud and its optimization  
+
+- **[Computer Science](https://github.com/DevJalax/CS-mastery)**  
+  Advanced Computer Science topics. 
+  
+- **[Data sharing among different services](https://github.com/DevJalax/python-tutorial)** 
+
+---
+
+## 📂 Projects
+
+Refer the below pinned repositories.
+---
