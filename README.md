@@ -75,7 +75,6 @@ Experimental and conceptual work to explore new ideas:
 - **[Spring cloud api gateway](https://github.com/DevJalax/spring-cloud-api-gateway)**  
   
 - **[Spring Redis](https://github.com/DevJalax/Spring-redis)**  
-  (Optional: Add a note on tools or frameworks used.)
   
 - **[Spring cassandra + Redshift + Spark](https://github.com/DevJalax/spring-boot-cassandra-redshift-spark)**  
   
