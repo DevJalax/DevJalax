@@ -86,7 +86,9 @@ Experimental and conceptual work to explore new ideas:
   
 - **[Spring Batch](https://github.com/DevJalax/Batch-Processor)**  
   
-- **[Spring webflux](https://github.com/DevJalax/Spring-webflux)**  
+- **[Spring webflux](https://github.com/DevJalax/Spring-webflux)**
+
+- **[Spring SQS](https://github.com/DevJalax/aws-sqs-spring)**
   
 ---
 
@@ -99,7 +101,7 @@ Repositories for my learning and personal skill development:
 - **[Computer Science](https://github.com/DevJalax/CS-mastery)**  
   Advanced Computer Science topics. 
   
-- **[Data sharing among different services](https://github.com/DevJalax/python-tutorial)** 
+- **[Data sharing among different services](https://github.com/DevJalax/data-sharing-among-microservices)** 
 
 ---
 
