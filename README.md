@@ -98,10 +98,12 @@ Repositories for my learning and personal skill development:
 - **[Devops](https://github.com/DevJalax/Devops)**  
   Situations that can arise real-time when deploying application on cloud and its optimization  
 
-- **[Computer Science](https://github.com/DevJalax/CS-mastery)**  
+- **[Computer Science Roadmap]([https://github.com/DevJalax/CS-mastery](https://roadmap.sh/r/computer-science-mastery-faebe))**  
   Advanced Computer Science topics. 
   
-- **[Data sharing among different services](https://github.com/DevJalax/data-sharing-among-microservices)** 
+- **[Data sharing among different services](https://github.com/DevJalax/data-sharing-among-microservices)**
+
+- **[Functional System design Questions](https://github.com/DevJalax/System-design)** 
 
 ---
 
