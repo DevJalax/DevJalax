@@ -2,68 +2,28 @@
 
 ![Profile Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm13bzlpMWQxYmxiczV1dXZycmR2Y25vaWFuZGU4dngxNzBtZnM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-I'm a passionate software engineer from India, dedicated to crafting efficient and scalable solutions. Let's embark on a journey through my skills and interests!
+About Me
 
-Tech Stack : Java(Backend api's) + Flutter(Front-end)
+I’m a passionate backend developer with expertise in Java, Spring Boot, and distributed systems, always exploring ways to build scalable and efficient architectures. My experience spans Kafka, RabbitMQ, Redis, KeyDB, MySQL, and hybrid cloud models across AWS, Azure, and GCP. I specialize in designing high-performance APIs, optimizing two-way SSL, and managing interdependent microservices.
+
+Currently, I’m expanding my tech stack by diving into Python, C#, and Ruby while also exploring Dart and Flutter with Bloc for state management. I thrive on tackling complex backend challenges, from reconciliation processes to self-evolving API gateways with AI-driven optimizations.
+
+Beyond tech, I have a keen interest in history, apocalyptic scenarios, and travel—always looking for new places to explore!
 
 ---
 
 ## 🚀 Areas of Interest
 - **Cross Platform Application Development** 📱
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
-    <img height="60" width="60" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> 
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/>
-    <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-    <img height="60" width="70" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"/>
-    <img height="70" width="70" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"/> 
-   
-</p>
-
----
-
-## Trophies
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=DevJalax&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-
+- **Desktop Application Development** 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJalax&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevJalax&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJalax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 👁️‍🗨️ Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/DevJalax/count.svg)
-
----
-
-## 💬 Quote of the Day
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -102,9 +62,10 @@ Repositories for my learning and personal skill development:
   Advanced Computer Science topics. 
   
 - **[Data sharing among different services](https://github.com/DevJalax/data-sharing-among-microservices)**
+     Ways in which data is propagated across modules.
 
 - **[Functional System design Questions](https://github.com/DevJalax/System-design)** 
-
+     Non-functional system design qns
 ---
 
 ## 📂 Projects
